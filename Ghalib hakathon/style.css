@@ -1,0 +1,76 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: "Franklin ITC", sans-serif;
+}
+
+.logo{
+    margin-top: -45px;
+    padding-left: 270px;
+    width: 990px;
+    height:98px
+}
+.backgroung{
+    width: 960px;
+    height: 601.59px;
+  margin: 100px 100px 50px 200px;
+}
+.header-poster{
+margin: 0px 0px 24px 200px;
+width: 960px;
+height: 31.59px;
+display: flex;
+align-items: center;
+justify-content: center;
+
+}
+.date{
+    font-size: 18px;
+   font-weight: bold;
+}
+
+.new-home-post {
+
+background: #bb3825;
+    border-radius: 4px;
+    color: #FFF;
+    display: inline-block;
+    margin-right: 6px;
+    line-height: 1.1;
+    padding: 2px 4px
+}
+h2{
+    text-align: center;
+    font-family: "Franklin ITC", sans-serif;
+    font-weight: bold;
+}
+p{
+    text-align: center;
+     font-size: 18px;
+}
+.box{
+    width: 800px;
+    margin-left:200px ;
+text-align: justify;
+}
+.section-title, .widget-title {
+    font-family: "Franklin ITC", sans-serif;
+    font-size: 2.25rem;
+    font-weight: normal;
+    line-height: 1;
+    margin-top: 0;
+    margin-bottom: 1em;
+    text-align: center;
+}
+table{
+    border: 1px solid;
+    width: 1223px;
+    height: 1335px;
+    margin-left: 50px;
+    
+}
+.footer{
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+}
